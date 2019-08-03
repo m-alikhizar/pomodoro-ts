@@ -8,20 +8,20 @@ To install dependencies
 npm install
 ```
 
+Compiles and hot-reloads for development
 ```
 npm start
 ```
-Compiles and hot-reloads for development
 
+Compiles and minifies for production
 ```
 npm build
 ```
-Compiles and minifies for production
 
+Run unit tests and integration tests
 ```
 npm test
 ```
-Run unit tests and integration tests
 
 Lints and fixes files
 ```
