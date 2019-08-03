@@ -73,7 +73,7 @@ h1 {
     text-transform: uppercase;
 }
 
-#controls {
+#controllers {
     position: absolute;
     top: 0;
     right: -5rem;
@@ -206,7 +206,7 @@ h1 {
         left: 0;
     }
 
-    #controls {
+    #controllers {
         right: 0;
     }
 }
