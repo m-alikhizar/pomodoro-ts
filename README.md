@@ -1,7 +1,7 @@
 # pomodoro-ts
 Pomodoro timer app.
 
-####Project setup
+#### Project setup
 ```
 npm install
 ```
