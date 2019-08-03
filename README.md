@@ -1,15 +1,17 @@
 # pomodoro-ts
 Pomodoro timer app.
 
-#### Project setup
+### Project setup
+
+To install dependencies
 ```
 npm install
 ```
-Compiles and hot-reloads for development
+
 ```
 npm start
 ```
-Compiles for development
+Compiles and hot-reloads for development
 
 ```
 npm build
