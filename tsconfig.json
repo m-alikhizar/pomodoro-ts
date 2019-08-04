@@ -3,7 +3,7 @@
     "outDir": "build",
     "sourceMap": true,
     "noImplicitAny": true,
-    "module": "esnext",
+    "module": "commonjs",
     "target": "es5",
     "jsx": "react",
     "strict": true,

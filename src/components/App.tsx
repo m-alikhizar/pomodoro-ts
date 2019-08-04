@@ -102,7 +102,7 @@ const App  = ( props: PropsInterface ) => {
                         setBreakSession(true)
                         dispatch({type: SET_MINUTES, payload: breakLength - 1})
                         dispatch({type: SET_SECONDS, payload: 60})
-                    }, 2000);
+                    }, 6000);
                 }
             }
             if(breakSession) {
@@ -122,7 +122,7 @@ const App  = ( props: PropsInterface ) => {
                         setSessionTime(true)
                         dispatch({type: SET_MINUTES, payload: sessionLength - 1})
                         dispatch({type: SET_SECONDS, payload: 60})
-                    }, 2000);
+                    }, 6000);
                 }
             }
         }
@@ -258,7 +258,7 @@ const App  = ( props: PropsInterface ) => {
                     </div>
                 </div>
                 <div id="sound">
-                    <audio id="beep" src="" />
+                    <audio id="beep" src="http://www.talkingwav.com/wp-content/uploads/2017/10/loop_08.mp3" />
                 </div>
             </div>
     )
